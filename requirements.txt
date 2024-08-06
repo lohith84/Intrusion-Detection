@@ -1,0 +1,8 @@
+PyQt5==5.15.9
+opencv-python==4.9.0.80
+pandas==2.2.0
+numpy==1.26.4
+deepface==0.0.86
+Pillow==10.2.0
+gradio==4.21.0
+ultralytics==8.0.206
