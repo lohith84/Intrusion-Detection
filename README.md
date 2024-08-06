@@ -114,7 +114,7 @@ Name folders in Sequetial Order as person1,person2...
 
 ## Manual
 For detailed instructions on setting up and using the system, please refer to the project manual:
-- [Intrusion Detection System - User Manual](https://drive.google.com/file/d/13cznOS6DKCKTXGgzu6z8svSUdr4BxCFV/view?usp=sharing)
+- [Intrusion Detection System - User Manual](https://drive.google.com/file/d/1LflM0TR32F9Qckumg76iX-pMx-5EZyvh/view?usp=sharing)
 
 ## Team
 This project was developed by:
