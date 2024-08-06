@@ -99,7 +99,7 @@ rtsp_url = 'rtsp://username:password@ip_address:port/channel_path'
 
 ## Project Structure
 
-- **app.py:** Handles the whole system.
+- **App.py:** Handles the whole system.
 
 - **Models:** Handles the extraction and processing of video frames.
     1. **faceDetection.py:** Detect the faces in the frame using YOLOv8.
@@ -107,10 +107,10 @@ rtsp_url = 'rtsp://username:password@ip_address:port/channel_path'
     3. **faceRecognition.py:** Implements intruder detection using YOLOv8 and FaceNet512.
     4. **notifications.py:** Manages email alerts using SMTP.
    
-- **database:**
+- **Database:**
 Name folders in Sequetial Order as person1,person2...
 
-- **requirements.txt:** List of required Python libraries.
+- **Requirements.txt:** List of required Python libraries.
 
 ## Manual
 For detailed instructions on setting up and using the system, please refer to the project manual:
@@ -118,10 +118,10 @@ For detailed instructions on setting up and using the system, please refer to th
 
 ## Team
 This project was developed by:
-- **H Lohith**
-- **M Jerusha** 
-- **Pamu Rahul** 
-- **Pulimi Rahul** 
+- **[Hanumanthu Lohith](https://github.com/lohith84)**
+- **[Mamuduri Jerusha](https://github.com/jerusha08)**
+- **[Pamu Rahul](https://github.com/rahul-079)**
+- **[Pulimi Rahul](https://github.com/rahul-pulimi-github-link)**
 
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request.
